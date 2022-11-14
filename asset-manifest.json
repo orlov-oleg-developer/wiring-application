@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/wiring-application/static/css/main.a0afa09b.css",
+    "main.js": "/wiring-application/static/js/main.650b18eb.js",
+    "static/media/Inter-Medium.woff": "/wiring-application/static/media/Inter-Medium.44e343ff76a98508d309.woff",
+    "static/media/Inter-Black.woff": "/wiring-application/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/wiring-application/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Medium.woff2": "/wiring-application/static/media/Inter-Medium.01f03178adde434fc9fa.woff2",
+    "static/media/Inter-Black.woff2": "/wiring-application/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/wiring-application/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/sphereImg.svg": "/wiring-application/static/media/sphereImg.87233f78bc81214fb21211e1613fc617.svg",
+    "static/media/game-1-bg.svg": "/wiring-application/static/media/game-1-bg.e981f0bc062e04b3f09deb4b1c4c7d61.svg",
+    "static/media/game-1-shield.svg": "/wiring-application/static/media/game-1-shield.a862144361886bc1bee34e886f5a1f8a.svg",
+    "static/media/fuse-3.svg": "/wiring-application/static/media/fuse-3.f94e983c63d05e01328f7611479f33e6.svg",
+    "static/media/fuse-4.svg": "/wiring-application/static/media/fuse-4.a432c5c675b15e7a2712bcb8ab74d22f.svg",
+    "static/media/fuse-2.svg": "/wiring-application/static/media/fuse-2.d95644a3ac4357a9b8a6b12524653b3a.svg",
+    "static/media/fuse-1.svg": "/wiring-application/static/media/fuse-1.1fa99876dbe5c20bb481bb16d88e3bc1.svg",
+    "index.html": "/wiring-application/index.html",
+    "static/media/fuse-position.svg": "/wiring-application/static/media/fuse-position.58a48607b097fc790689e9adc60eab4d.svg",
+    "main.a0afa09b.css.map": "/wiring-application/static/css/main.a0afa09b.css.map",
+    "main.650b18eb.js.map": "/wiring-application/static/js/main.650b18eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0afa09b.css",
+    "static/js/main.650b18eb.js"
+  ]
+}
