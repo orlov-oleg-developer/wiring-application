@@ -1,0 +1,19 @@
+.header__button-text {
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+
+  position: absolute;
+  z-index: 1;
+
+  top: 0%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+@media screen and (max-width: 1919px) {
+  .header__button-text {
+    font-size: 20px;
+    line-height: 23px;
+  }
+}

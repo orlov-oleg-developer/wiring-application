@@ -1,0 +1,10 @@
+.game-1__fuse-position {
+  box-sizing: border-box;
+
+  width: 35px;
+  height: 140px;
+
+  position: absolute;
+  top: 132px;
+  left: 1090px;
+}

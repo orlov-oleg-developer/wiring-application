@@ -1,0 +1,10 @@
+.game-1__shield {
+  box-sizing: border-box;
+
+  width: 350px;
+  height: 350x;
+
+  position: absolute;
+  top: 25px;
+  left: 1032px;
+}

@@ -1,0 +1,18 @@
+.application__result-container {
+  box-sizing: border-box;
+  margin-bottom: 60px;
+  padding: 25px 50px;
+
+  border-radius: 10px;
+  box-shadow: 0px 0px 4px #F11818;
+
+  display: grid;
+
+  grid-template-areas:
+  'title button'
+  'description button';
+
+  align-content: center;
+  align-items: center;
+  justify-content: space-between;
+}

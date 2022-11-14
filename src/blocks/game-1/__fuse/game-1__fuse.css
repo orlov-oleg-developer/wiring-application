@@ -1,0 +1,12 @@
+.game-1__fuse {
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.game-1__fuse:hover {
+  cursor: move;
+}

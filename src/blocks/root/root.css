@@ -1,0 +1,18 @@
+.root {
+  margin: 0 auto;
+  padding: 0 100px 0;
+
+  max-width: 1920px;
+  min-width: 320px;
+
+  font-family: Raleway, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (max-width: 1919px) {
+  .root {
+    padding: 0 50px 0;
+  }
+}

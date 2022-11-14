@@ -1,0 +1,12 @@
+.header__language {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 38px;
+}
+
+@media screen and (max-width: 1919px) {
+  .header__language {
+    font-size: 20px;
+    line-height: 23px;
+  }
+}

@@ -1,0 +1,28 @@
+.application__result-button {
+  box-sizing: border-box;
+  margin: 0;
+
+  width: 360px;
+  height: 54px;
+
+  position: relative;
+
+  grid-area: button;
+
+  border: none;
+  background: #37D434;
+  border-radius: 50px;
+
+  transition: all 0.3s ease;
+}
+
+.application__result-button:hover {
+  cursor: pointer;
+
+  background-color: white;
+  border: 1px solid #37D434;
+}
+
+.application__result-button:hover .application__result-button-text {
+  color: #37D434;
+}

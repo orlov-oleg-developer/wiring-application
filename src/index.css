@@ -1,0 +1,57 @@
+#root {
+  background-color: white;
+}
+
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts/fonts.css);
+
+/* Root */
+@import url(./blocks/root/root.css);
+@import url(./blocks/root/__header/root__header.css);
+
+/* Header */
+@import url(./blocks/header/header.css);
+@import url(./blocks/header/__container/header__container.css);
+@import url(./blocks/header/__logo/header__logo.css);
+@import url(./blocks/header/__menu/header__menu.css);
+@import url(./blocks/header/__link/header__link.css);
+@import url(./blocks/header/__language-container/header__language-container.css);
+@import url(./blocks/header/__language/header__language.css);
+@import url(./blocks/header/__language-logo/header__language-logo.css);
+@import url(./blocks/header/__button/header__button.css);
+@import url(./blocks/header/__button-text/header__button-text.css);
+
+/* Main */
+@import url(./blocks/main/main.css);
+@import url(./blocks/main/__application/main__application.css);
+
+/* Application */
+@import url(./blocks/application/application.css);
+@import url(./blocks/application/__title/application__title.css);
+@import url(./blocks/application/__task-container/application__task-container.css);
+@import url(./blocks/application/__task-title/application__task-title.css);
+@import url(./blocks/application/__task-description/application__task-description.css);
+
+@import url(./blocks/application/__result-container/application__result-container.css);
+@import url(./blocks/application/__result-container/_success/application__result-container_success.css);
+@import url(./blocks/application/__result-title/application__result-title.css);
+@import url(./blocks/application/__result-description/application__result-description.css);
+@import url(./blocks/application/__result-button/application__result-button.css);
+@import url(./blocks/application/__result-button-text/application__result-button-text.css);
+
+/* Game-1 */
+@import url(./blocks/game-1/game-1.css);
+@import url(./blocks/game-1/__bg/game-1__bg.css);
+@import url(./blocks/game-1/__shield/game-1__shield.css);
+@import url(./blocks/game-1/__fuse-position/game-1__fuse-position.css);
+@import url(./blocks/game-1/__fuse-state/game-1__fuse-state.css);
+@import url(./blocks/game-1/__fuse-state/_disable/game-1__fuse-state_disable.css);
+@import url(./blocks/game-1/__fuse-container/game-1__fuse-container.css);
+@import url(./blocks/game-1/__fuse/game-1__fuse.css);
+@import url(./blocks/game-1/__fuse-image/game-1__fuse-image.css);
+@import url(./blocks/game-1/__fuse-text/game-1__fuse-text.css);
+
+/* Dragable */
+@import url(./blocks/dragable/dragable.css);
+@import url(./blocks/dragable/__element/dragable__element.css);
+@import url(./blocks/dragable/__element/_selected/dragable__element_selected.css);

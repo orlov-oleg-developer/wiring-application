@@ -1,0 +1,40 @@
+.header__link {
+  margin: 0;
+
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 38px;
+
+  position: relative;
+}
+
+.header__link::before {
+  content: '';
+
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+  border-bottom: 1px solid black;
+
+  transform: scaleX(0);
+
+  transition: transform 0.2s ease-in;
+}
+
+.header__link:hover {
+  cursor: pointer;
+}
+
+.header__link:hover::before {
+  transform: scaleX(1);
+}
+
+@media screen and (max-width: 1919px) {
+  .header__link {
+    font-size: 20px;
+    line-height: 23px;
+  }
+}

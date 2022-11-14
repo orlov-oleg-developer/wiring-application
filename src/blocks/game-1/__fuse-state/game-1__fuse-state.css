@@ -1,0 +1,19 @@
+@keyframes opacity{
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.4;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.game-1__fuse-state {
+  width: 100%;
+
+  position: absolute;
+
+  animation: opacity 2s ease infinite;
+}

@@ -1,0 +1,15 @@
+.header__language-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.header__language-container:hover {
+  cursor: pointer;
+}
+
+@media screen and (max-width: 1919px) {
+  .header__language-container {
+    gap: 10px;
+  }
+}

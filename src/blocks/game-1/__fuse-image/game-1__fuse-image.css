@@ -1,0 +1,7 @@
+.game-1__fuse-image {
+  box-sizing: border-box;
+
+  height: 140px;
+
+  object-fit: cover;
+}
